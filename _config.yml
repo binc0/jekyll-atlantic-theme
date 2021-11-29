@@ -1,6 +1,6 @@
-baseurl: "/"
-permalink: pretty
-title: "Jekyll Atlantic"
+baseurl: "https://news.movity.it/"
+permalink: 
+title: "News da movity"
 collections_dir: collections
 markdown: kramdown
 highlighter: rouge
